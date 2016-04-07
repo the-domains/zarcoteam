@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Real Estate Professionals, when it comes to take the decision of one of the biggest investments in your life you need expert advise, Realtors have information that you may have not, plus we are trained to check everyday what is out there in the market and give to our clients the betters options for them.'
-datePublished: '2016-04-07T15:53:20.209Z'
-dateModified: '2016-04-07T15:27:04.254Z'
+datePublished: '2016-04-07T15:56:30.818Z'
+dateModified: '2016-04-07T15:55:56.481Z'
 title: ''
 author: []
 authors: []
