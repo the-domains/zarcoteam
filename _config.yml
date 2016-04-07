@@ -1,0 +1,28 @@
+name: zarcoteam
+favicon: null
+layout_spectrum: 0.7208872258197516
+typography_spectrum: 0.5842298974748701
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8384702026378363
+  lightness: 0.5079952175728977
+  saturation: 0.1163293516729027
+  rhythmicContrast: 0.34877705899998546
+purpose: []
