@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Real Estate Professionals, when it comes to take the decision of one of the biggest investments in your life you need expert advise, Realtors have information that you may have not, plus we are trained to check everyday what is out there in the market and give to our clients the betters options for them.'
-datePublished: '2016-04-07T16:20:43.600Z'
-dateModified: '2016-04-07T16:20:31.346Z'
+datePublished: '2016-04-07T21:17:19.179Z'
+dateModified: '2016-04-07T21:17:07.493Z'
 title: Who We Are?
 author: []
 sourcePath: _posts/2016-04-07-real-estate-professionals-when-it-comes-to-take-the-decisio.md
